@@ -11,4 +11,4 @@ A dashboard was created using Plotly, to visualize the effects of the various fe
 
 **visualisation:** EDA of the various features to determine the importance of features.
 
-**falcon_webscrapping and data collection:** Webscrapping to collect the necessary data.
+**falcon9_webscraping and final Data Collection:** Webscrapping to collect the necessary data.
