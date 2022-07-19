@@ -8,3 +8,7 @@ A dashboard was created using Plotly, to visualize the effects of the various fe
 **folium_lab:** Mapping of local assets in the proximity of the SLV launch sites and measuring the approximate distance from each asset to help decision making and success rates seamless for establishing infrastructures of satellite launchpads and simultaneously maintain public safely and security.
 
 **House_project:** Multiple Regression and Polynomial Regression based models designed using datasets for critical parameters impacting price points of real estates. The final outcome provides the estimated price on the realty assets and the dynamic possible price change that can be levied on the assets based on the dynamic nature of the parameters under consideration. 
+
+**visualisation:** EDA of the various features to determine the importance of features.
+
+**falcon_webscrapping and data collection:** Webscrapping to collect the necessary data.
